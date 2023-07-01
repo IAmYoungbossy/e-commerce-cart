@@ -7,7 +7,7 @@ const ProductList = () => {
   return (
     <div className="product-grid">
       <div>
-        <h1>Health Products</h1>
+        <h1>Paatee Products</h1>
         <div className="card-container">
           {state.products.map((product) => (
             <div

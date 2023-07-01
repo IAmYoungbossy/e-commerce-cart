@@ -13,7 +13,7 @@ const LoadingIcon = () => {
           state.isLoading ? "loading" : ""
         }`}
       >
-        Health Shop
+        PaateeNg
       </span>
     </div>
   );
